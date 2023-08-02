@@ -1,3 +1,5 @@
+//java program to get number of elements in hash set
+
 import java.util.*;
 import java.util.Iterator;
   public class Exercise3 {
