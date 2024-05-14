@@ -1,5 +1,5 @@
 //sort the elements of a given stack in ascending order
-//update for test
+//update for test2
 import java.util.Scanner;
 public class Stack {
   private int[] arr;
