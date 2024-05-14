@@ -1,5 +1,5 @@
 Write a Java program to implement a stack with push and pop operations. Find the top element of the stack and check if the stack is empty or not.
-
+//ok
 import java.util.Scanner;
 public class Stack {
   private int[] arr;
